@@ -1,2 +1,2 @@
-# domain--all
+# domain--any
 domain library targeting all environments
