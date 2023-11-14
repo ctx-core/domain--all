@@ -1,5 +1,11 @@
 # @ctx-core/domain--any
 
+## 0.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 0.1.2
 
 ### Patch Changes
