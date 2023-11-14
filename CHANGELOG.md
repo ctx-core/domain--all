@@ -1,5 +1,11 @@
 # @ctx-core/domain--any
 
+## 0.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 0.1.1
 
 ### Patch Changes
