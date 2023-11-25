@@ -1,5 +1,11 @@
 # @ctx-core/domain--any
 
+## 0.1.9
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+
 ## 0.1.8
 
 ### Patch Changes
