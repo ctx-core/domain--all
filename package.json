@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/domain--any",
-	"version": "0.1.11",
+	"version": "0.1.12",
 	"description": "ctx-core core library",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/ctx-core/domain--any.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-domain--any@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",

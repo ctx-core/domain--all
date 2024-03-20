@@ -1,5 +1,11 @@
 # @ctx-core/domain--any
 
+## 0.1.12
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 0.1.11
 
 ### Patch Changes
